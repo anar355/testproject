@@ -1,0 +1,9 @@
+GENERAL NOTES
+
+Java has 2 types:
+Primitives
+Reference types = class, interface, annotation, enum, record, array
+
+Record= separate reference type that creates the class with standard things such as constructor, getter, setter, equals(), toString() and hashcode() methods generated automatically
+Example: 	public record MyStudent (int id, String name) {
+}
