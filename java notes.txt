@@ -1,4 +1,5 @@
 GENERAL NOTES
+Java notes
 
 Java has 2 types:
 Primitives
